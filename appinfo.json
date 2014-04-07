@@ -1,0 +1,18 @@
+{
+    "versionLabel": "1.0",
+    "uuid": "1dadf565-5067-4d0b-8700-fcf044f867eb",
+    "appKeys": {},
+    "longName": "First Project",
+    "versionCode": 1,
+    "capabilities": [
+        ""
+    ],
+    "shortName": "First Project",
+    "companyName": "alexsah@gmail.com",
+    "watchapp": {
+        "watchface": true
+    },
+    "resources": {
+        "media": []
+    }
+}
